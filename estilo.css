@@ -19,6 +19,16 @@ div.tarjeta {
   opacity: 1;
 }
 
+#ficcion {
+  display: block;
+  background-color: #DE8CBC;
+  margin: 2% 5%;
+  border-radius: 5px;
+  box-shadow: 0 3px 7px -1px rgba(#000, .1);
+  padding: 10px;
+  opacity: 1;
+}
+
 div.cabecera {
   display: block;
   background-color: #FFFFFF;
