@@ -9,6 +9,16 @@ div.tarjeta {
   filter: alpha(opacity=60);
 }
 
+#tterror {
+  display: block;
+  background-color: #B3B5B5;
+  margin: 0% 5%;
+  border-radius: 5px;
+  box-shadow: 0 3px 7px -1px rgba(#000, .1);
+  padding: 10px;
+  opacity: 1;
+}
+
 div.cabecera {
   display: block;
   background-color: #FFFFFF;
@@ -27,6 +37,16 @@ div.cabecera {
   border-radius: 5px;
   box-shadow: 0 3px 7px -1px rgba(#000, .1);
   padding: 10px;
+}
+
+#terror {
+  display: block;
+  background-color: #B3B5B5;
+  margin: 2% 5%;
+  border-radius: 5px;
+  box-shadow: 0 3px 7px -1px rgba(#000, .1);
+  padding: 10px;
+  opacity: 1;
 }
 
 html, body{
