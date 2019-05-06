@@ -20,14 +20,6 @@ div.cabecera {
   filter: alpha(opacity=60);
 }
 
-#fantasia {
-  display: block;
-  background-color: #BFB4A4;
-  margin: 2% 5%;
-  border-radius: 5px;
-  box-shadow: 0 3px 7px -1px rgba(#000, .1);
-  padding: 10px;
-}
 
 html, body{
   height:100%;
