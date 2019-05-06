@@ -16,6 +16,8 @@ div.cabecera {
   border-radius: 5px;
   box-shadow: 0 3px 7px -1px rgba(#000, .1);
   padding: 10px;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
 }
 
 html, body{
