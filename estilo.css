@@ -1,0 +1,36 @@
+div.tarjeta {
+  display: block;
+  background-color: #FFFFFF;
+  margin: 0% 5%;
+  border-radius: 5px;
+  box-shadow: 0 3px 7px -1px rgba(#000, .1);
+  padding: 10px;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+}
+
+div.cabecera {
+  display: block;
+  background-color: #FFFFFF;
+  margin: 2% 5%;
+  border-radius: 5px;
+  box-shadow: 0 3px 7px -1px rgba(#000, .1);
+  padding: 10px;
+}
+
+html, body{
+  height:100%;
+  margin:0;
+  display: flex;
+  flex-direction: column;
+  font-family: courier
+}
+
+.categorias {
+  font-size: 28px;
+}
+
+tarjeta.h1, ul {
+  font-weight: bold;
+  color: #000000;
+}
